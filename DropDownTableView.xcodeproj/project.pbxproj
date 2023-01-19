@@ -14,6 +14,8 @@
 		9B52A4812979411400BFAF96 /* DropDownTableView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9B52A47F2979411400BFAF96 /* DropDownTableView.xcdatamodeld */; };
 		9B52A4832979411A00BFAF96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B52A4822979411A00BFAF96 /* Assets.xcassets */; };
 		9B52A4862979411A00BFAF96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B52A4842979411A00BFAF96 /* LaunchScreen.storyboard */; };
+		9B52A48E2979428200BFAF96 /* TableItemsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B52A48D2979428200BFAF96 /* TableItemsModel.swift */; };
+		9B52A4902979465B00BFAF96 /* ExpandableHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B52A48F2979465B00BFAF96 /* ExpandableHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		9B52A4822979411A00BFAF96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B52A4852979411A00BFAF96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B52A4872979411A00BFAF96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B52A48D2979428200BFAF96 /* TableItemsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableItemsModel.swift; sourceTree = "<group>"; };
+		9B52A48F2979465B00BFAF96 /* ExpandableHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				9B52A4762979411400BFAF96 /* AppDelegate.swift */,
 				9B52A4782979411400BFAF96 /* SceneDelegate.swift */,
 				9B52A47A2979411400BFAF96 /* ViewController.swift */,
+				9B52A48F2979465B00BFAF96 /* ExpandableHeaderView.swift */,
+				9B52A48D2979428200BFAF96 /* TableItemsModel.swift */,
 				9B52A47C2979411400BFAF96 /* Main.storyboard */,
 				9B52A4822979411A00BFAF96 /* Assets.xcassets */,
 				9B52A4842979411A00BFAF96 /* LaunchScreen.storyboard */,
@@ -142,6 +148,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B52A47B2979411400BFAF96 /* ViewController.swift in Sources */,
+				9B52A4902979465B00BFAF96 /* ExpandableHeaderView.swift in Sources */,
+				9B52A48E2979428200BFAF96 /* TableItemsModel.swift in Sources */,
 				9B52A4772979411400BFAF96 /* AppDelegate.swift in Sources */,
 				9B52A4812979411400BFAF96 /* DropDownTableView.xcdatamodeld in Sources */,
 				9B52A4792979411400BFAF96 /* SceneDelegate.swift in Sources */,
